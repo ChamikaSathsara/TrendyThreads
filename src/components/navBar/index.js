@@ -22,9 +22,11 @@ return(
             <p className={styles.links}>
                <span className={styles.linksTest}>Offer</span>
                <span>Offer</span>
-               <span>Offer</span>
-               <span>Offer</span>
-               <span>Offer</span>
+               <span>Men</span>
+               <span>Women</span>
+               <span>Kids</span>
+               <span>Accessories </span>
+               <span>Sale</span>
             </p>
         </div>
         </Col>

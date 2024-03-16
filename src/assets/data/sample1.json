@@ -1,0 +1,32 @@
+ [
+      {
+        "name": "Classic Button-Up",
+        "price": 39.99,
+        "description": "A timeless and versatile button-up shirt.",
+        "image": "shirt1.jpg"
+      },
+      {
+        "name": "Casual Plaid Shirt",
+        "price": 29.99,
+        "description": "A comfortable plaid shirt for everyday wear.",
+        "image": "shirt2.jpg"
+      },
+      {
+        "name": "Formal White Shirt",
+        "price": 49.99,
+        "description": "A crisp and formal white shirt for special occasions.",
+        "image": "shirt3.jpg"
+      },
+      {
+        "name": "Denim Work Shirt",
+        "price": 34.99,
+        "description": "A durable denim shirt for a rugged look.",
+        "image": "shirt4.jpg"
+      },
+      {
+        "name": "Striped Oxford Shirt",
+        "price": 44.99,
+        "description": "A stylish striped Oxford shirt for a polished appearance.",
+        "image": "shirt5.jpg"
+      }
+]

@@ -1,0 +1,100 @@
+.secondPage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.textbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    text-align-last: center;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: -1rem;
+}
+.details{
+    font-size: 17px;
+    margin-bottom: 3rem;
+}
+
+.clothingStore{
+    width: 100vw;
+    height: 25vh;
+}
+
+.card{
+    height: 300px;
+    width: 200px;
+    border-radius: 25px;
+    background-color: rgb(48, 48, 48);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+}
+.cardSection{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.cardContent{
+    background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255, 255, 255, 1) 100%);
+    display: flex;
+    flex-direction: column; /* Ensure flex items are stacked vertically */
+    align-items: flex-end; /* Align flex items vertically to the end */
+    justify-content: flex-end;
+    width: 100%;
+    margin-top: 11.57rem;
+    border-radius: 0px 0px 25px 25px;
+}
+.tabsSection{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    margin-bottom: 2rem;
+}
+
+.tabInActive{
+    color: rgb(114, 114, 114)
+}
+.tabActive{
+    color: rgb(0, 0, 0);
+    padding: 0.5rem;
+    background-color: rgb(202, 202, 202);
+    border-radius: 20px;
+
+}
+
+.innerTitle{
+    display: flex;
+    align-items: flex-end;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: -1rem;
+    margin-left: 0.5rem;
+}
+.innerDec{
+    display: flex;
+    align-items: flex-end;
+    font-size: 10px;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-left: 0.5rem;
+    padding-bottom: 1.2rem;
+}
+.innerprice{
+    display: flex;
+    align-items: flex-end;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: white;
+    color: black;
+    margin-left: 5rem;
+    padding-left: 1rem;
+}

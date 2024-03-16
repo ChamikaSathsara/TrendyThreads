@@ -1,0 +1,165 @@
+{
+    "clothes": {
+      "shirts": [
+        {
+          "name": "Classic Button-Up",
+          "price": 39.99,
+          "description": "A timeless and versatile button-up shirt.",
+          "image": "shirt1.jpg"
+        },
+        {
+          "name": "Casual Plaid Shirt",
+          "price": 29.99,
+          "description": "A comfortable plaid shirt for everyday wear.",
+          "image": "shirt2.jpg"
+        },
+        {
+          "name": "Formal White Shirt",
+          "price": 49.99,
+          "description": "A crisp and formal white shirt for special occasions.",
+          "image": "shirt3.jpg"
+        },
+        {
+          "name": "Denim Work Shirt",
+          "price": 34.99,
+          "description": "A durable denim shirt for a rugged look.",
+          "image": "shirt4.jpg"
+        },
+        {
+          "name": "Striped Oxford Shirt",
+          "price": 44.99,
+          "description": "A stylish striped Oxford shirt for a polished appearance.",
+          "image": "shirt5.jpg"
+        }
+      ],
+      "t-shirts": [
+        {
+          "name": "Graphic Print Tee",
+          "price": 19.99,
+          "description": "A trendy t-shirt with a unique graphic print.",
+          "image": "tshirt1.jpg"
+        },
+        {
+          "name": "Basic V-Neck Tee",
+          "price": 14.99,
+          "description": "A comfortable and essential V-neck t-shirt.",
+          "image": "tshirt2.jpg"
+        },
+        {
+          "name": "Athletic Performance Tee",
+          "price": 24.99,
+          "description": "A moisture-wicking tee for active lifestyles.",
+          "image": "tshirt3.jpg"
+        },
+        {
+          "name": "Vintage Logo Tee",
+          "price": 21.99,
+          "description": "A classic tee with a retro-inspired logo.",
+          "image": "tshirt4.jpg"
+        },
+        {
+          "name": "Long Sleeve Henley",
+          "price": 27.99,
+          "description": "A stylish long sleeve Henley for a casual look.",
+          "image": "tshirt5.jpg"
+        }
+      ],
+      "jackets": [
+        {
+          "name": "Leather Biker Jacket",
+          "price": 89.99,
+          "description": "A sleek and edgy leather biker jacket.",
+          "image": "jacket1.jpg"
+        },
+        {
+          "name": "Quilted Bomber Jacket",
+          "price": 79.99,
+          "description": "A stylish quilted bomber jacket for colder days.",
+          "image": "jacket2.jpg"
+        },
+        {
+          "name": "Denim Jacket",
+          "price": 69.99,
+          "description": "A classic denim jacket for a laid-back vibe.",
+          "image": "jacket3.jpg"
+        },
+        {
+          "name": "Waterproof Rain Jacket",
+          "price": 99.99,
+          "description": "A functional and waterproof rain jacket.",
+          "image": "jacket4.jpg"
+        },
+        {
+          "name": "Hooded Windbreaker",
+          "price": 59.99,
+          "description": "A lightweight hooded windbreaker for outdoor activities.",
+          "image": "jacket5.jpg"
+        }
+      ],
+      "shoes": [
+        {
+          "name": "Classic Leather Sneakers",
+          "price": 59.99,
+          "description": "Timeless and comfortable leather sneakers.",
+          "image": "shoes1.jpg"
+        },
+        {
+          "name": "Running Shoes",
+          "price": 79.99,
+          "description": "High-performance running shoes for active individuals.",
+          "image": "shoes2.jpg"
+        },
+        {
+          "name": "Casual Slip-Ons",
+          "price": 49.99,
+          "description": "Easy and comfortable slip-on shoes for everyday wear.",
+          "image": "shoes3.jpg"
+        },
+        {
+          "name": "Ankle Boots",
+          "price": 69.99,
+          "description": "Stylish ankle boots for a fashionable look.",
+          "image": "shoes4.jpg"
+        },
+        {
+          "name": "Formal Dress Shoes",
+          "price": 89.99,
+          "description": "Elegant formal dress shoes for special occasions.",
+          "image": "shoes5.jpg"
+        }
+      ],
+      "accessories": [
+        {
+          "name": "Classic Leather Belt",
+          "price": 19.99,
+          "description": "A versatile and durable leather belt.",
+          "image": "belt1.jpg"
+        },
+        {
+          "name": "Stylish Watch",
+          "price": 29.99,
+          "description": "A fashionable watch to complete your look.",
+          "image": "watch1.jpg"
+        },
+        {
+          "name": "Beanie Hat",
+          "price": 14.99,
+          "description": "A cozy beanie hat for colder days.",
+          "image": "hat1.jpg"
+        },
+        {
+          "name": "Aviator Sunglasses",
+          "price": 24.99,
+          "description": "Classic aviator sunglasses for a cool vibe.",
+          "image": "sunglasses1.jpg"
+        },
+        {
+          "name": "Leather Wallet",
+          "price": 39.99,
+          "description": "A stylish and functional leather wallet.",
+          "image": "wallet1.jpg"
+        }
+      ]
+    }
+  }
+  
